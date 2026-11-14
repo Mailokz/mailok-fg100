@@ -1,4 +1,4 @@
-# mailok-fg100
+# mailok-fg110
 
 A homebrew FPGA-based graphics card project. Built from scratch on the Sipeed Tang Nano 9K (Gowin GW1NR-9 FPGA).
 
